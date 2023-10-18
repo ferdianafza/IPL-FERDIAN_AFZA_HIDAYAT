@@ -1,4 +1,4 @@
-class Vegetable extends Product {
+class Vegetable extends FoodProduct {
 	@Override
 	String getName() {
 		return "Broccoli";
