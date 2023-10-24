@@ -1,0 +1,4 @@
+class EngineInterface {
+	void start() {
+	}
+}
