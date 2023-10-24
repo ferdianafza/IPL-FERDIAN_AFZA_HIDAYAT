@@ -1,6 +1,5 @@
-interface VehicleInterface {
-	void drive();
-	void stop();
-	void refuel();
-	void openDoors();
+class Motorcycle : VehicleInterface {
+	override fun drive() {}
+	override fun stop() {}
+	override fun refuel() {}
 }
